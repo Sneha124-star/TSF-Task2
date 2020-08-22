@@ -1,2 +1,2 @@
 # TSF Internship
-Tasks completed during internship fot The sparks foundation
+Tasks completed during internship fot The sparks foundations.
