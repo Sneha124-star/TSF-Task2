@@ -1,2 +1,2 @@
 # TSF Internship
-Tasks completed during internship for TSF GRIP
+Tasks completed during internship for The Sparks Foundation GRIP
